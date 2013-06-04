@@ -1,0 +1,20 @@
+body {
+  padding: 1em;
+}
+#message-list {
+  margin-top: 1em;
+}
+dl {
+  line-height: 1.5em;
+}
+dt, dd {
+}
+dt {
+  font-weight: bold;
+  float: left;
+}
+dt:before {
+}
+dt:after {
+  content: ':';
+}
